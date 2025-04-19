@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+*.zip
+*.rar
+*.log
+*.bak
+*.tmp
+
